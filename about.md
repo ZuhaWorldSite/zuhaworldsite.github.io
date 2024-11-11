@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Welcome to about page
+## about
 
 _About_
 <h2>Welcome to us.</h2>
