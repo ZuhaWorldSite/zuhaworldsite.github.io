@@ -6,8 +6,8 @@
 
 *Minimal is a Jekyll theme for GitHub Pages. You can [preview the original theme here](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
 
-*ZuhaWorldSite is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://zuhaworldsite.github.io/minimal).*
-![Thumbnail of Minimal](thumbnail.jpg)
+*ZuhaWorldSite is used a Jekyll theme for GitHub Pages. You can [preview after applying this theme what it looks like](https://zuhaworldsite.github.io).*
+![Thumbnail of ZuhaWorldSite](thumbnail.jpg)
 
 ## Usage
 
