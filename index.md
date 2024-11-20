@@ -4,6 +4,17 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
+## OUR HISTORY
+
+Our dedication to perfection and our love of innovation are what motivate us. Since our establishment in 2011, we have been committed to revolutionizing the social club industry by continuously pushing the envelope of what is conceivable.
+
+## WHO WE ARE:
+
+At **ZuhaWorldSite**, we believe in the power of positive impact. We follow the philosophy that “One can’t help everyone, but everyone can do for someone.” This approach helps us create a community that inspires individuals. Our goal is to empower them to make a difference.
+
+## See the examples
+
+
 [Link to another page](./another-page.html).
 
 There should be whitespace between paragraphs.
