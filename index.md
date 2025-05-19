@@ -10,7 +10,7 @@ Our dedication to perfection and our love of innovation are what motivate us. Si
 
 ## WHO WE ARE:
 
-At **ZuhaWorldSite**, we believe in the power of positive impact. We follow the philosophy that “One can’t help everyone, but everyone can do for someone.” This approach helps us create a community that inspires individuals. Our goal is to empower them to make a difference.
+At **ZuhaWorldSite**, we believe in the power of positive impact. We follow the philosophy that “One can’t help everyone, but everyone can do for someone.” This approach helps us create a community that inspires individuals. Our goal is to empower them to make something difference.
 
 ## KEY FEATURES:
 
