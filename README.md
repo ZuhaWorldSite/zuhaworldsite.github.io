@@ -83,7 +83,7 @@ Templates often rely on URLs supplied by GitHub such as links to your repository
 2. Specify the URL that you'd like the template to use in your site's `_config.yml`. For example, if the variable was `site.github.url`, you'd add the following:
     ```yml
     github:
-      zip_url: http://example.com/download.zip
+      zip_url: https://zuhaworldsite.github.io/download.zip
       another_url: another value
     ```
 3. When your site is built, Jekyll will use the URL you specified, rather than the default one provided by GitHub.
