@@ -10,7 +10,7 @@ Our dedication to perfection and our love of innovation are what motivate us. Si
 
 ## WHO WE ARE:
 
-At **ZuhaWorldSite**, we believe in the power of positive impact. We follow the philosophy that “One can’t help everyone, but everyone can do for someone.” This approach helps us create a community that inspires individuals. Our goal is to empower them to make something difference.
+At **ZwSite Git Org**, we believe in the power of positive impact. We follow the philosophy that “One can’t help everyone, but everyone can do for someone.” This approach helps us create a community that inspires individuals. Our goal is to empower them to make something difference.
 
 ## KEY FEATURES:
 
@@ -22,7 +22,7 @@ At **ZuhaWorldSite**, we believe in the power of positive impact. We follow the 
 
 ## OUR MISSION:
 
-Our mission is to foster a culture of productivity, personal growth, and remote work excellence. Are you seeking motivation? Do you want to enhance your skills? Or are you aiming to balance work and life seamlessly? **ZuhaWorldSite** is your go-to resource.
+Our mission is to foster a culture of productivity, personal growth, and remote work excellence. Are you seeking motivation? Do you want to enhance your skills? Or are you aiming to balance work and life seamlessly? **ZwSite Git Org** is your go-to resource.
 
 ## OUR VISION:
 
